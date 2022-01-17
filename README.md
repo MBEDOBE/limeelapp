@@ -22,7 +22,7 @@ End with a few screenshots
 
 ## Built with
 
-* [React 17.0.2](https://reactjs.org/) - The programming language used
+* [ReactNative 0.66](https://reactnative.dev/) - The programming language used
 * Stateless Components - Design Pattern
 * No external libraries were used in this project
 
